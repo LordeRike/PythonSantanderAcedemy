@@ -46,3 +46,5 @@ Por exemplo:
 """
 e_maior_de_idade = True
 tem_desconto = False
+
+# Os valores booleanos em Python começam com uma letra maiúscula: True e False.
